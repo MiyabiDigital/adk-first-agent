@@ -20,6 +20,7 @@ License: MIT
 # ---------------------------------------------------
 
 ### uvのインストール
+# https://docs.astral.sh/uv/
 # https://github.com/astral-sh/uv
 # On macOS and Linux.
 # curl -LsSf https://astral.sh/uv/install.sh | sh
